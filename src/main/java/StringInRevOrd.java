@@ -1,4 +1,4 @@
-public class String_In_Rev_Ord {
+public class StringInRevOrd {
         public static void main(String[] args) {
             String str = "абвгдеёжзи";
             String reverse = new StringBuffer(str).reverse().toString();
